@@ -1,4 +1,6 @@
-*PROJECT SUMMARY:*
+**PROJECT SUMMARY:**
+<p style="color:green;"><b>Soil moisture is optimal ✅</b></p>
+<p style="color:red;"><b>Water pump activated ⚠️</b></p>
 1.Smart irrigation is an Iot-based project which aims at making the job of irrigation a little easier. The project uses Raspberry Pi Pico
 and has been coded using Thonny and Micropython.
 2.The Basic Working: 
